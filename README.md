@@ -14,5 +14,4 @@ Database
 Code 
 
 ## Installation
-- Tensorflow, Keras, 
-
+- TensorFlow, Keras, and statsmodels required. 
