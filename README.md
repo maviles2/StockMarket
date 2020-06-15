@@ -9,8 +9,11 @@ The aim of this analysis is to create a predictive model(s) that will assist ins
 
 ## Table of Contents:
 -Proposal
+
 -Visual Presentation
+
 -Database
+
 -Code 
 
 ## Installation
